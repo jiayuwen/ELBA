@@ -1,0 +1,15 @@
+Name	PeakFile/Annotation	#features[ref=570]	Coverage(bp)[ref=70490]	AvgFeatureSize[ref=123]	Overlap(#peaks)	Overlap(bp)	Expected Overlap(bp, gsize=2.00e+09)	Log Ratio Enrichment	Log P-value(+ underrepresented)	P-value
+promoters	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/promoters.ann.txt	37097	19286759	519	281	35559	679	3.96	-950.64	0.00e+00
+introns	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/introns.ann.txt	153680	87214268	567	289	32318	3073	2.35	-442.90	4.48e-193
+utr5	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/utr5.ann.txt	48609	4497184	92	170	14575	158	4.52	-432.51	1.46e-188
+exons	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/exons.ann.txt	254682	35671770	140	260	23876	1257	2.94	-424.57	4.08e-185
+protein-coding	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/protein-coding.ann.txt	247393	33513501	135	247	22489	1181	2.95	-395.98	1.06e-172
+tts	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/tts.ann.txt	37097	18817124	507	142	16954	663	3.24	-331.48	1.09e-144
+coding	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/coding.ann.txt	170616	25081947	147	107	7670	884	2.16	-84.37	2.29e-37
+intergenic	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/intergenic.ann.txt	3001	42189847	14058	68	7851	1486	1.66	-58.23	5.13e-26
+utr3	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/utr3.ann.txt	35457	7603879	214	31	2685	267	2.31	-31.40	2.30e-14
+ncRNA	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/ncRNA.ann.txt	5767	2258040	391	19	1702	79	3.07	-28.94	2.70e-13
+miRNA	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/miRNA.ann.txt	460	135975	295	3	273	4	4.22	-7.21	7.37e-04
+miscRNA	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/miscRNA.ann.txt	250	79672	318	0	0	2	-0.69	0.02	9.77e-01
+rRNA	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/rRNA.ann.txt	812	146575	180	0	0	5	-1.61	0.04	9.59e-01
+gaps	/home/seqdata/software/homer/.//data/genomes/dm3//annotations/basic/gaps.ann.txt	37673	6368725	169	0	0	224	-5.41	1.83	1.61e-01

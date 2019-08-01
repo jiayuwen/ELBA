@@ -1,0 +1,16 @@
+Elba1_ChIPnexus_sumit_q10.bed	Elba2_ChIPnexus_sumit_q5.bed	Elba3_ChIPnexus_sumit_q10.bed	Insv_ChIPnexus_sumit_q10.bed	Total	Name
+			X	3485	Insv_ChIPnexus_sumit_q10.bed
+		X		1016	Elba3_ChIPnexus_sumit_q10.bed
+		X	X	773	Elba3_ChIPnexus_sumit_q10.bed|Insv_ChIPnexus_sumit_q10.bed
+	X			162	Elba2_ChIPnexus_sumit_q5.bed
+	X		X	28	Elba2_ChIPnexus_sumit_q5.bed|Insv_ChIPnexus_sumit_q10.bed
+	X	X		113	Elba2_ChIPnexus_sumit_q5.bed|Elba3_ChIPnexus_sumit_q10.bed
+	X	X	X	95	Elba2_ChIPnexus_sumit_q5.bed|Elba3_ChIPnexus_sumit_q10.bed|Insv_ChIPnexus_sumit_q10.bed
+X				158	Elba1_ChIPnexus_sumit_q10.bed
+X			X	16	Elba1_ChIPnexus_sumit_q10.bed|Insv_ChIPnexus_sumit_q10.bed
+X		X		424	Elba1_ChIPnexus_sumit_q10.bed|Elba3_ChIPnexus_sumit_q10.bed
+X		X	X	261	Elba1_ChIPnexus_sumit_q10.bed|Elba3_ChIPnexus_sumit_q10.bed|Insv_ChIPnexus_sumit_q10.bed
+X	X			22	Elba1_ChIPnexus_sumit_q10.bed|Elba2_ChIPnexus_sumit_q5.bed
+X	X		X	7	Elba1_ChIPnexus_sumit_q10.bed|Elba2_ChIPnexus_sumit_q5.bed|Insv_ChIPnexus_sumit_q10.bed
+X	X	X		521	Elba1_ChIPnexus_sumit_q10.bed|Elba2_ChIPnexus_sumit_q5.bed|Elba3_ChIPnexus_sumit_q10.bed
+X	X	X	X	677	Elba1_ChIPnexus_sumit_q10.bed|Elba2_ChIPnexus_sumit_q5.bed|Elba3_ChIPnexus_sumit_q10.bed|Insv_ChIPnexus_sumit_q10.bed

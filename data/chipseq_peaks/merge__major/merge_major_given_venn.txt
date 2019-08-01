@@ -1,0 +1,16 @@
+wtInsv__insvInsv	wtElba3__elba3Elba3	wtElba2__elba2Elba2	wtElba1__elba1Elba1	Total	Name
+			X	169	wtElba1__elba1Elba1
+		X		68	wtElba2__elba2Elba2
+		X	X	14	wtElba2__elba2Elba2|wtElba1__elba1Elba1
+	X			2547	wtElba3__elba3Elba3
+	X		X	882	wtElba3__elba3Elba3|wtElba1__elba1Elba1
+	X	X		52	wtElba3__elba3Elba3|wtElba2__elba2Elba2
+	X	X	X	405	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+X				2231	wtInsv__insvInsv
+X			X	39	wtInsv__insvInsv|wtElba1__elba1Elba1
+X		X		11	wtInsv__insvInsv|wtElba2__elba2Elba2
+X		X	X	7	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+X	X			973	wtInsv__insvInsv|wtElba3__elba3Elba3
+X	X		X	755	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1
+X	X	X		31	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2
+X	X	X	X	880	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1

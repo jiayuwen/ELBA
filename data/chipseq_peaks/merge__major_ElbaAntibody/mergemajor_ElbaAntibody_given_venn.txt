@@ -1,0 +1,844 @@
+wtInsv__insvInsv	wtElba3__elba3Elba3	wtElba2__elba2Elba2	wtElba1__elba1Elba1	insvElba3__elba3Elba3	insvElba2__elba2Elba2	insvElba1__elba1Elba1	elba3Insv__insvInsv	elba3Elba2__elba2Elba2	elba2Insv__insvInsv	elba2Elba3__elba3Elba3	elba2Elba1__elba1Elba1	elba1Insv__insvInsv	elba1Elba3__elba3Elba3	elba1Elba2__elba2Elba2	Total	Name
+X	X														39	wtInsv__insvInsv|wtElba3__elba3Elba3
+X	X												X		14	wtInsv__insvInsv|wtElba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X					X									1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1
+X	X		X	X											9	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3
+X	X			X			X					X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X									X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X		X						X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X						X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv
+X	X		X	X		X									13	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+X	X		X						X				X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X	X					X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X		X							X		6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X							X	X				2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X							X	X		X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X			X			X						2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X	X		X	X			X		X			X			11	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X	X	X	X			X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X			X		X			X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X											X			6	wtElba3__elba3Elba3|elba1Insv__insvInsv
+	X			X	X	X									6	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+	X					X						X			1	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+		X				X	X		X			X			1	wtElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+					X					X					1	insvElba2__elba2Elba2|elba2Elba3__elba3Elba3
+	X						X								5	wtElba3__elba3Elba3|elba3Insv__insvInsv
+X	X											X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba1Insv__insvInsv
+X	X											X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X		X					X		X			X			3	wtInsv__insvInsv|wtElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X			X					X	X	X				1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X			X					X	X	X		X		5	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X					X	X								1	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X		X	X								X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba1Insv__insvInsv
+	X			X		X			X	X	X		X		2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X	X		X	X								3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X	X		X		X	X		X	X		X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X	X					X	X		X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X		X						X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X	X		X						X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X					X					X					1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3
+X				X					X	X			X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X	X	X			X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X	X	X				X	X				1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X	X	X	X				X	X		X		5	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X			X			X			X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X												13	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+	X	X	X										X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X						X								3	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv
+X	X						X						X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X					X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X			X					X	X	X		X		15	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X			X								1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv
+	X			X						X					151	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+	X			X						X			X		456	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X				X		X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X			X		X			X	X	X		X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X		X	X								5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X		X				X		X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X	X						X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X			X	X	X						1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv
+	X		X	X					X	X			X		7	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X		X	X	X	X			X			X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X						X					X	X		1	wtElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X			X									51	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+	X		X			X							X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X					X	X					X	X		1	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+								X	X						1	elba3Elba2__elba2Elba2|elba2Insv__insvInsv
+	X		X				X		X			X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X		X	X		X	X					X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+	X		X	X	X	X	X		X						1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X				X					X	X		X	X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X										5	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2
+	X	X	X									X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X												8	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1
+X	X						X					X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X	X	X									83	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+X	X						X					X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X							X		4	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X			X									5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+X	X			X					X	X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X						X		X	X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X				X		X			X			9	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X			X		X			X	X	X	X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X				X		X			X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X	X					X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+	X	X		X						X	X		X		2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X	X	X	X					X	X	X		X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X			X		X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X			X			X		X	X	X		X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X				X	X									2	wtElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+	X		X	X	X		X		X			X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X		X	X	X	X	X		X			X			3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+											X				3	elba2Elba1__elba1Elba1
+											X		X		1	elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X	X	X	X	X							X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba1Insv__insvInsv
+	X								X	X	X				2	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X			X		X				X	X				5	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X								X	X	X		X		2	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X				X								1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv
+	X			X		X				X	X		X		19	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X		X	X				X		X			X			1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X	X	X									2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+X									X	X					5	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X									X	X			X		1	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X		X	X			X	X		X			X			3	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X	X		X		X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X		X	X		X			X	X	X		X		2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X			X		X	X		X	X	X	X	X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X						X			X	X					1	wtInsv__insvInsv|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X				X			X		X	X		X			3	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X				X			X		X	X		X	X		4	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X											X				1	wtInsv__insvInsv|elba2Elba1__elba1Elba1
+X				X		X	X		X	X		X			2	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X			X						X	X				2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X				X		X	X		X	X		X	X		4	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X						X	X		X		22	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+		X						X						X	2	wtElba2__elba2Elba2|elba3Elba2__elba2Elba2|elba1Elba2__elba2Elba2
+X	X								X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X			X		X				X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X								X	X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X				X								1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv
+X	X			X		X				X	X		X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X			X		X	X	X	X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X	X					X	X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X			X	X								1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X			X			X		X	X	X	X	X		7	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X						X					17	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+	X		X	X						X			X		63	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X		X			X	X	X				2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X		X	X		X			X	X	X		X		8	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X			X	X	X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X		X			X		X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X		X	X		X				X					21	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X		X	X		X				X			X		79	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+								X							16	elba3Elba2__elba2Elba2
+	X		X	X	X	X	X								1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X	X		X	X	X	X		X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X			X	X					X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+							X		X	X					5	elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X									X	X		X			6	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X									X	X		X	X		2	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X		X		X									3	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+							X	X	X			X			1	elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X		X										1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba2__elba2Elba2
+	X	X	X	X		X			X						2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+	X			X			X			X	X		X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X	X		X		X	X		X			X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X		X			X				X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X	X		X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X		X	X			X	X								1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv
+				X					X						12	insvElba3__elba3Elba3|elba2Insv__insvInsv
+				X					X				X		1	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X								X							1	wtInsv__insvInsv|elba3Elba2__elba2Elba2
+X	X								X	X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X	X					X			X		3	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X		X			X						4	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X	X	X		X											1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3
+X	X		X	X					X	X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X							X		X	X					6	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X							X		X	X			X		1	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X		X			X	X	X	X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+	X		X	X		X	X		X	X	X		X		2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X		X			X	X	X	X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X			X	X	X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X						X	X		X	X			X		1	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X		X			X		X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X		X	X		X				X		X	X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X						X	X				1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X	X	X	X		X			X						6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X	X			X			X			X	X		X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X		X			X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X					X						4	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Insv__insvInsv
+	X	X	X	X		X				X	X				3	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X	X	X	X		X				X	X		X		6	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X		X	X			X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X		X	X			X		X	X	X		X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+							X		X	X		X			2	elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+							X		X	X		X	X		1	elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X		X	X	X			X						1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv
+	X									X	X				16	wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X									X	X		X		19	wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X					X				X	X				2	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X	X	X	X		X			X			X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X		X			X			X	X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+			X			X					X				1	wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Elba1__elba1Elba1
+X	X			X		X	X		X			X			23	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+				X					X			X			5	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X			X		X	X		X			X	X		7	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X					X			X	X		1	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X	X	X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba1Insv__insvInsv
+X							X		X	X		X			14	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X							X		X	X		X	X		3	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X		X		X	X								1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X	X							X			X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X									X	X				3	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X									X	X		X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X					X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X					X				X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X						X	X		X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X		X			X			X			3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+				X			X		X						6	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X				X					X			X			1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+				X			X		X				X		1	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X						X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X		X	X		X				X	X				3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X		X	X		X				X	X		X		6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X							X					2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X		X							X			X		4	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X			X		X	X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X			X				X	X	X						1	wtInsv__insvInsv|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv
+X	X	X	X	X			X		X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X	X		X	X		X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X	X		X	X		X				X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X					X			X			X			3	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+X					X				X	X					1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X		X	X	X	X			X	X	X		X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X						X		X						15	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X						X		X				X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X	X	X	X		X	X		X	X		3	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X											429	insvElba3__elba3Elba3
+				X									X		24	insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+									X						425	elba2Insv__insvInsv
+				X		X									96	insvElba3__elba3Elba3|insvElba1__elba1Elba1
+									X				X		8	elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+				X		X							X		1	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X			X					X	X					2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X			X					X	X			X		33	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X		X	X		X			X			2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X						X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X							X			X					1	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X							X		X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X		X	X		X						6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+			X	X					X						1	wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv
+X							X			X			X		1	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X			X		X			X			10	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X													8	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2
+				X			X		X			X	X		2	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X		X			X	X					1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X			X		X			X	X			X		5	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X		X	X	X					X			X		4	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X		X	X	X		X	X		X	X	X	X			1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+			X	X		X			X						2	wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X	X	X	X	X											1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3
+	X		X	X	X	X				X					1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X		X	X	X	X				X			X		14	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X						X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba2Insv__insvInsv
+X	X	X	X	X		X									15	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+X	X	X	X	X		X							X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X				X											9	wtInsv__insvInsv|insvElba3__elba3Elba3
+X				X									X		3	wtInsv__insvInsv|insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X			X			X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X	X	X	X	X			X		X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X			X		X			X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X	X	X	X	X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X					X	X					8	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X		X	X			X			X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X					X	X			X		63	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X		X	X		X			X			26	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X		X	X		X			X	X		11	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X			X	X					2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X			X		X			X	X			X		8	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+					X			X							1	insvElba2__elba2Elba2|elba3Elba2__elba2Elba2
+					X			X						X	2	insvElba2__elba2Elba2|elba3Elba2__elba2Elba2|elba1Elba2__elba2Elba2
+	X	X		X	X	X									1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+X	X						X		X			X			42	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X	X	X			X						3	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X	X						X		X			X	X		12	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X								X			4	insvElba3__elba3Elba3|elba1Insv__insvInsv
+				X								X	X		1	insvElba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X	X				X						1	insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv
+X	X					X	X		X			X			6	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+									X			X			55	elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X					X	X		X			X	X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X		X						X			1	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+									X			X	X		1	elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X					X	X		X	X		2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X							X			X		X			1	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X		X	X		X			X			80	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X		X	X		X			X	X		17	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X	X		X			X	X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+X	X	X										X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba1Insv__insvInsv
+X					X		X		X	X			X		1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X		X			X	X		X	X		2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X	X			X	X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X				X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv
+	X	X	X	X		X	X								6	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X	X	X	X		X						X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X	X	X	X	X		X						X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X			X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv
+				X			X								4	insvElba3__elba3Elba3|elba3Insv__insvInsv
+X	X	X	X	X	X	X			X				X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X				X	X				2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X	X	X	X	X	X				X	X		X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+				X		X	X								3	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X			X					X	X		X			6	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X			X			X		X	X			X		4	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X					X	X		X	X		21	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+			X	X			X		X						1	wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X			X		X			X	X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X			X		X			X	X		X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X		X					X	X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X	X		X						X			X		7	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X		X	X								2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X			X			X		X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X			X			X		X	X			X		13	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X	X	X	X		X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X									X		X				1	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba1__elba1Elba1
+	X	X	X			X									11	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+														X	20	elba1Elba2__elba2Elba2
+													X		368	elba1Elba3__elba3Elba3
+X	X	X	X	X	X				X			X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X		X	X					X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X	X	X		X	X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X	X		X						2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+						X									270	insvElba1__elba1Elba1
+			X	X											14	wtElba1__elba1Elba1|insvElba3__elba3Elba3
+X	X	X	X	X	X	X			X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+				X			X					X			2	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv
+						X							X		2	insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X								X	X					7	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+				X	X		X		X						1	insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X								X	X			X		7	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X		X				X					12	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X	X	X	X	X	X				X	X	X			2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+	X			X		X				X			X		44	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X			X	X		X						2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X		X	X	X	X				X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+			X	X		X									17	wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+	X			X			X		X	X		X	X		4	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X												6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+	X		X	X		X			X	X					2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X		X	X		X			X	X			X		2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X		X	X		X	X		X	X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X			X									2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+X	X	X	X	X	X		X		X						1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv
+X															454	wtInsv__insvInsv
+X													X		14	wtInsv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X						X					16	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+X	X	X	X				X		X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X		X	X		X					X				1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba1__elba1Elba1
+X	X			X						X			X		87	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X		X	X					X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X	X	X	X		X						7	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X	X	X	X	X		X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X								X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X								X	X			X		12	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X		X				X					2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X	X			X		X				X			X		14	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X			X	X		X									1	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+X	X		X	X					X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X			X			X		X	X		X			11	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X					X	X			X		18	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X			X		X	X		X	X		59	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X			X		X	X		X	X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+X	X	X	X	X	X	X		X		X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X		X			X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X		X	X		X			X	X			X		25	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X	X										4	insvElba3__elba3Elba3|insvElba2__elba2Elba2
+												X			193	elba1Insv__insvInsv
+												X	X		3	elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X	X	X									14	insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+	X		X	X	X	X	X	X	X	X		X	X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X	X		X			X			4	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X	X	X	X		X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+	X								X	X		X	X		1	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X			X	X		X			X			9	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X			X	X	X			X	X			X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X								X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba1Elba3__elba3Elba3
+	X	X		X		X				X	X				1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X	X	X				X								2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba3Insv__insvInsv
+X	X	X	X	X	X	X									21	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+	X		X	X		X			X	X		X	X		3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X							X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X							X		X		X		X		1	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X							X							1	wtElba3__elba3Elba3|elba3Elba2__elba2Elba2
+							X								674	elba3Insv__insvInsv
+X												X			34	wtInsv__insvInsv|elba1Insv__insvInsv
+							X						X		4	elba3Insv__insvInsv|elba1Elba3__elba3Elba3
+X												X	X		2	wtInsv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X						X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X			X			X			X			X		4	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X					X	X	X				2	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X			X						X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X	X		X	X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X	X				X	X			X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X			X			56	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X			X	X								X			1	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba1Insv__insvInsv
+X	X	X	X	X	X	X	X		X			X	X		13	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X						X		X	X					1	wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X								X	X		X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X								X	X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X				X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X	X	X			X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+			X				X		X						2	wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+				X		X			X	X	X		X		2	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X			X						X			X			1	wtInsv__insvInsv|wtElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X			X	X	X			X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X					X	X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X		X	X			X		X	X			X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X					X	X		X	X		9	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X	X	X		X			X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X				X								2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|elba3Insv__insvInsv
+	X		X	X		X	X		X	X					1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X		X	X		X			X	X		X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X	X								X					2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba2Elba3__elba3Elba3
+X	X		X	X		X			X	X		X	X		14	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X								X			X		2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X						X					2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+	X	X	X	X						X			X		5	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X		X			X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X	X	X	X		X			X	X	X		X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X			X			X			X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X		X				X					12	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+							X		X		X	X			1	elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X	X				X		X		X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X		X				X			X		36	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X		X	X			X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X		X		X							1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Elba2__elba2Elba2
+X	X		X	X			X		X	X			X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X	X	X						X			1	insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X	X	X	X	X		X			X			13	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X	X	X	X		X			X	X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X	X								2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X							X		X		X	X			2	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+	X									X					117	wtElba3__elba3Elba3|elba2Elba3__elba3Elba3
+	X									X			X		134	wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+			X												75	wtElba1__elba1Elba1
+							X					X			69	elba3Insv__insvInsv|elba1Insv__insvInsv
+	X					X				X					4	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X							X	X	X						1	wtInsv__insvInsv|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv
+				X	X	X	X								1	insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv
+	X					X				X			X		5	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X		X	X		X	X	X	X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X	X			X		X	X		X	X	X	X	X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+			X			X									46	wtElba1__elba1Elba1|insvElba1__elba1Elba1
+			X			X							X		1	wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X						X	X			X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X		X	X			X		X	X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+			X				X		X			X			1	wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X		X		X	X		X					X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba2__elba2Elba2
+	X		X	X		X	X		X	X		X	X		3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X									X					13	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Elba3__elba3Elba3
+X	X									X			X		16	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X			X												3	wtInsv__insvInsv|wtElba1__elba1Elba1
+X	X					X				X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X	X		X	X						X					6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+X	X		X	X						X			X		25	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X			X		X	X	X		X		1	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X			X			X									5	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+X	X		X						X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X			X		X	X			X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X		X				X			X		38	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X			X		X	X		X			3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X			X		X	X		X	X		17	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X		X	X									2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+X	X	X	X	X		X	X		X	X	X				2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+					X										87	insvElba2__elba2Elba2
+					X									X	2	insvElba2__elba2Elba2|elba1Elba2__elba2Elba2
+	X	X	X	X	X	X	X					X			3	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+					X	X									8	insvElba2__elba2Elba2|insvElba1__elba1Elba1
+			X	X	X										1	wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2
+	X									X		X	X		2	wtElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X	X		X					X	X		1	insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X	X	X				X					1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X			X	X	X				X			X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+			X	X	X	X									1	wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+	X		X	X	X	X			X	X			X		2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X	X	X	X		X	X		X	X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X		X		X	X		X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X						X		X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X						X		X	X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+				X						X	X				13	insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X			X	X					X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3
+				X						X	X		X		13	insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X	X					X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X					X			3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X				X		X			X				X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+									X	X	X				1	elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+				X		X				X	X				4	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+									X	X	X		X		1	elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+			X				X								1	wtElba1__elba1Elba1|elba3Insv__insvInsv
+				X		X				X	X		X		1	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X						X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+			X			X	X								1	wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X		X						X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X				X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X	X			X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X											235	wtElba3__elba3Elba3|insvElba3__elba3Elba3
+	X			X									X		86	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X		X				X	X		X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X				X						X	X		X		2	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X			X		X	X	X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X					X						6	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv
+X	X	X	X	X		X	X		X	X	X	X	X		12	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X	X			X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X		X		X	X			X				X		X	1	wtInsv__insvInsv|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Elba2__elba2Elba2|elba1Insv__insvInsv|elba1Elba2__elba2Elba2
+					X		X								1	insvElba2__elba2Elba2|elba3Insv__insvInsv
+					X		X						X		1	insvElba2__elba2Elba2|elba3Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X						X		X	X	X	X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X		X	X		X						3	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+			X	X	X		X								1	wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv
+X	X				X				X	X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X		X			X				X					1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X		X			X				X			X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+		X		X											2	wtElba2__elba2Elba2|insvElba3__elba3Elba3
+X	X		X	X		X	X		X	X	X	X			3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X	X		X	X		X	X	X	X	X		20	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+		X							X						1	wtElba2__elba2Elba2|elba2Insv__insvInsv
+		X		X		X									2	wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+X				X			X		X						7	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X				X			X		X				X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X			X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X	X	X	X	X	X			X	X	X		X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X				X						X	X	X			1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+				X			X			X	X		X		1	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X				X		X	X		X						4	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X		X							X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X	X		X							X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X				X					8	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+	X	X	X	X	X	X				X			X		19	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X		X		X											2	wtInsv__insvInsv|wtElba2__elba2Elba2|insvElba3__elba3Elba3
+X	X		X				X		X	X		X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X				X		X	X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X		X	X	X	X	X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X		X					X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+						X			X						8	insvElba1__elba1Elba1|elba2Insv__insvInsv
+			X		X										1	wtElba1__elba1Elba1|insvElba2__elba2Elba2
+				X		X	X		X			X			9	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X					X		X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+		X		X		X						X			1	wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X									X						152	wtInsv__insvInsv|elba2Insv__insvInsv
+X									X				X		2	wtInsv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+										X	X				82	elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+										X	X		X		18	elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X				X					X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X						X			X						2	wtInsv__insvInsv|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X				X			X		X			X			55	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X				X			X		X			X	X		6	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+						X				X	X				4	insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+						X				X	X		X		1	insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X			X	X	X	X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X					X			X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X			X	X		X			X						1	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X				X		X	X		X			X			23	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X				X		X	X		X			X	X		2	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X	X				X			X		9	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X	X		X		X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X											91	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3
+X										X	X				6	wtInsv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X	X									X		15	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+X										X	X		X		2	wtInsv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X	X		X									238	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+	X		X	X		X							X		19	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X	X	X		X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+						X			X			X			2	insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+							X		X						189	elba3Insv__insvInsv|elba2Insv__insvInsv
+X									X			X			58	wtInsv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X									X			X	X		4	wtInsv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+						X	X		X						2	insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X	X	X	X	X	X	X		X	X	X	X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X	X		X	X	X	X	X		X	X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+		X													51	wtElba2__elba2Elba2
+		X												X	2	wtElba2__elba2Elba2|elba1Elba2__elba2Elba2
+		X											X		1	wtElba2__elba2Elba2|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X		X	X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+		X				X									1	wtElba2__elba2Elba2|insvElba1__elba1Elba1
+		X	X	X											1	wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3
+	X			X	X										4	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2
+	X			X	X								X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba1Elba3__elba3Elba3
+	X	X		X		X				X					1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X				X			X						X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X			X	X		X						2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X	X	X	X				X	X				1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X	X	X	X	X	X				X	X		X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+		X	X	X		X									4	wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+X							X		X						157	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv
+X							X		X				X		3	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+							X			X	X				1	elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X	X								X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba1Insv__insvInsv
+X						X	X		X						9	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X	X	X	X		X			X	X			X		2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X		X	X		X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X		X	X		X						X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X	X	X	X	X	X	X	X		X	X	X	X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+				X					X	X					1	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X			X		X	X		X	X			X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X	X	X	X	X		34	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X					X	X			X		2	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X		X													4	wtInsv__insvInsv|wtElba2__elba2Elba2
+X	X	X		X						X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X					X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X		X			X		X	X		X	X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X		X			X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X	X	X	X		X			X	X			X		10	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+							X		X			X			178	elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+							X		X			X	X		6	elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+							X		X			X	X	X	1	elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+						X	X		X			X			8	insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X	X	X	X		X	X	X	X	X		8	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+			X	X		X	X		X			X			1	wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X						X									3	wtInsv__insvInsv|insvElba1__elba1Elba1
+X				X			X					X			1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv
+X				X	X		X		X						1	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X			X	X		X			X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X	X	X				X	X	X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X							X		X			X			606	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X							X		X			X		X	2	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba2__elba2Elba2
+X							X		X			X	X		20	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X		X	X					X			2	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X			X			X			X						2	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X						X	X		X			X			29	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X						X	X		X			X	X		2	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X	X		X	X		X			9	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X			X		X	X		X	X		X	X		44	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X					X	X		X	X		1	insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X			X	X		X	X		X			X			6	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X			X	X		X	X		X			X	X		1	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X	X	X	X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X	X	X	X	X	X	X	X	X	X		X		X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba2__elba2Elba2
+X	X	X	X	X	X	X	X	X	X	X		X	X		11	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X	X	X	X		X	X	X	3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+X	X	X		X						X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X												82	wtElba3__elba3Elba3|wtElba1__elba1Elba1
+	X		X										X		3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba1Elba3__elba3Elba3
+				X				X							1	insvElba3__elba3Elba3|elba3Elba2__elba2Elba2
+X	X	X	X	X					X	X		X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X		X			X	X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X	X	X	X		X			X	X		X	X		9	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+				X			X		X	X					1	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+				X	X	X	X		X			X			1	insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X				X							1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Elba2__elba2Elba2
+						X	X								2	insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X	X	X	X		X	X		X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X						X						X			1	wtInsv__insvInsv|insvElba1__elba1Elba1|elba1Insv__insvInsv
+X	X	X	X	X		X	X		X	X			X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X				X	X	X	X		X			X			1	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X					X			X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X					X						12	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv
+		X	X												4	wtElba2__elba2Elba2|wtElba1__elba1Elba1
+	X			X					X				X		4	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X							X								105	wtInsv__insvInsv|elba3Insv__insvInsv
+X							X						X		2	wtInsv__insvInsv|elba3Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X		X			X						1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+		X	X			X									3	wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+	X		X	X	X										6	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2
+	X			X		X			X				X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X					X	X	X		X		4	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X						X	X								1	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X						X		X	X					2	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X		X									X			2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba1Insv__insvInsv
+X	X						X		X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X						X					36	insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+				X						X			X		29	insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X		X	X	X	X									23	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+X	X						X	X	X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba3Elba2__elba2Elba2|elba2Insv__insvInsv|elba1Insv__insvInsv
+X			X				X		X						1	wtInsv__insvInsv|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X		X	X	X	X							X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+									X	X					11	elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+				X		X				X					1	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+									X	X			X		1	elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X		X				X			X		4	insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X		X	X		X	X		X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X		X	X		X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+					X	X			X			X			1	insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X		X	X		X	X			X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X								X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba2Elba3__elba3Elba3
+				X			X		X	X		X	X		2	insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X					X						10	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv
+X	X			X					X				X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X						X	X				24	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X			X						X	X		X		106	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X						X			X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X			X		X			X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X		X	X			X									1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba1__elba1Elba1
+X	X			X		X			X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X		X				X					5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X	X	X	X	X		X				X			X		25	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X				X						X					2	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3
+X				X						X			X		2	wtInsv__insvInsv|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X		X	X					X	X	X		X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X			X		X	X		X	X		6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+					X		X		X						1	insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv
+X					X				X			X			1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba1Insv__insvInsv
+						X	X					X			3	insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X		X	X		X	X		X			3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X	X	X	X		X	X		X	X		X	X		95	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+		X			X										1	wtElba2__elba2Elba2|insvElba2__elba2Elba2
+	X			X					X			X			2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X		X	X	X				X			X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X					X			X	X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X							X					X			39	wtInsv__insvInsv|elba3Insv__insvInsv|elba1Insv__insvInsv
+X							X					X	X		2	wtInsv__insvInsv|elba3Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X					X		X		X						1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X			X		X			X			X			1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+X						X	X					X			2	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba1Insv__insvInsv
+X	X						X		X	X		X			8	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X	X	X	X	X	X			X	X					1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X						X		X	X		X	X		20	wtInsv__insvInsv|wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X	X	X	X	X			X	X			X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+				X						X		X			1	insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X			X				X		X			X			2	wtInsv__insvInsv|wtElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X			X	X	X	X	X		X						1	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X					X	X		X	X		X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+									X	X		X			1	elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X					X	X		X	X		X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+									X	X		X	X		1	elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X			X			X	X		X			X			6	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X		X	X		X	X		X	X		X			23	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X		X	X		X	X		X	X		129	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X		X	X		X	X		X	X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+	X			X			X		X						2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X			X					X			X			4	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X			X					X			X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X		X	X		X						2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X	X	X				X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X				X			X		X	X	X				2	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X				X			X		X	X	X		X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X		X				X		X	X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X		X				X		X	X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+X	X	X	X	X	X	X			X	X					2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+	X			X				X		X			X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X			X	X			X		17	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X		X											11	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3
+	X	X		X									X		2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+					X		X		X			X			1	insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+					X	X	X		X			X			1	insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X					X						1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv
+X	X			X			X		X						2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X			X			X		X				X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X		X	X			X			X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X					X		X		X			X			1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X					X	X	X		X			X			1	wtInsv__insvInsv|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X	X	X	X	X			X	X		X	X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X	X	X	X		X	X		X			2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X			X	X	X	X		X	X		X	X		10	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X								X						10	wtElba3__elba3Elba3|elba2Insv__insvInsv
+	X			X		X									61	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+	X								X				X		4	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X		X							X		6	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X					X			X						2	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+	X			X			X		X			X			5	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X									X	X	X				6	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X									X	X	X		X		4	wtInsv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X			X				X								1	wtInsv__insvInsv|wtElba1__elba1Elba1|elba3Insv__insvInsv
+X				X		X				X	X		X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+										X					211	elba2Elba3__elba3Elba3
+	X		X	X		X			X						4	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+	X			X		X	X		X			X			1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+										X			X		38	elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X				X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X			X		X	X	X	X			2	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X			X			X	X								2	wtInsv__insvInsv|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X				X			X		X	X	X	X	X		4	wtInsv__insvInsv|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+						X				X			X		2	insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X			X	X		X	X		10	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X				X		X	X		X	X	X	X			3	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X				X		X	X		X	X	X	X	X		1	wtInsv__insvInsv|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X											28	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3
+X	X			X									X		8	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X								X						18	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv
+X	X								X				X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X			X		X									4	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+X	X			X		X							X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X					X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv
+X	X			X			X		X			X			35	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X			X			X		X			X	X		6	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X						X	X				3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X	X						X	X		X		9	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X										X					10	wtInsv__insvInsv|elba2Elba3__elba3Elba3
+X	X		X	X		X			X						5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv
+X										X			X		1	wtInsv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X		X			X				X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X		X				X	X				5	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X	X		X				X	X		X		9	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X	X	X	X		X	X			X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X	X					1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X	X			X		10	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X	X				X						1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Insv__insvInsv
+X					X		X								1	wtInsv__insvInsv|insvElba2__elba2Elba2|elba3Insv__insvInsv
+	X								X			X			4	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X								X			X	X		1	wtElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X			X		X						X			1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Insv__insvInsv
+	X			X	X	X			X						1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Insv__insvInsv
+		X		X		X	X		X			X			1	wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+		X	X		X	X									1	wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba2__elba2Elba2|insvElba1__elba1Elba1
+							X		X	X	X				2	elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+										X		X			1	elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+	X		X	X		X			X			X	X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X	X	X		X	X			X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X			X			X								2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv
+	X						X		X						2	wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+	X			X	X					X	X				1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X								X			X			5	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X			X		X	X								2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+	X			X	X					X	X		X		1	wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba2__elba2Elba2|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X								X			X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X			X		X						2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+X	X	X	X	X	X	X				X					3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3
+X							X		X	X	X				4	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+X	X		X	X					X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X	X	X				X			X		36	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X				X			X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+	X							X		X					1	wtElba3__elba3Elba3|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3
+							X			X					3	elba3Insv__insvInsv|elba2Elba3__elba3Elba3
+	X		X	X		X	X		X						2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv
+X										X		X			1	wtInsv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X		X			X			X			5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv
+	X	X													13	wtElba3__elba3Elba3|wtElba2__elba2Elba2
+	X	X												X	2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|elba1Elba2__elba2Elba2
+X										X		X	X		1	wtInsv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X						X	X		X	X	X		X		1	wtInsv__insvInsv|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X		X	X		X			X			X	X		3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba2Insv__insvInsv|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X		X	X				X		X			X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X	X		X			14	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X	X	X	X	X	X	X		X	X		X	X		286	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X	X	X	X	X	X	X		X	X		X	X	X	3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+	X	X	X	X											20	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3
+X	X			X			X								2	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv
+	X		X	X		X		X		X			X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Elba2__elba2Elba2|elba2Elba3__elba3Elba3|elba1Elba3__elba3Elba3
+	X	X	X	X		X									104	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1
+	X	X	X	X		X							X		18	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+X	X			X		X	X								1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv
+X	X		X	X			X		X						3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv
+							X		X	X	X	X	X		1	elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X				X	X	X		X	X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X														556	wtElba3__elba3Elba3
+	X												X		117	wtElba3__elba3Elba3|elba1Elba3__elba3Elba3
+X	X		X	X	X	X	X		X	X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X	X		X	X	X	X	X		X	X		X	X		50	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X	X		X	X	X	X	X		X	X		X	X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3|elba1Elba2__elba2Elba2
+	X					X									45	wtElba3__elba3Elba3|insvElba1__elba1Elba1
+	X			X			X					X			2	wtElba3__elba3Elba3|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba1Insv__insvInsv
+	X					X							X		3	wtElba3__elba3Elba3|insvElba1__elba1Elba1|elba1Elba3__elba3Elba3
+	X		X						X						3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|elba2Insv__insvInsv
+	X						X		X			X			2	wtElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X						X				X	X				1	wtInsv__insvInsv|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1
+	X		X			X			X						2	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba1__elba1Elba1|elba2Insv__insvInsv
+	X		X	X			X		X			X			1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+X	X	X	X	X	X	X				X		X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv
+X							X		X	X	X	X			5	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv
+X	X	X	X	X	X	X				X		X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba2__elba2Elba2|insvElba1__elba1Elba1|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+X							X		X	X	X	X	X		1	wtInsv__insvInsv|elba3Insv__insvInsv|elba2Insv__insvInsv|elba2Elba3__elba3Elba3|elba2Elba1__elba1Elba1|elba1Insv__insvInsv|elba1Elba3__elba3Elba3
+	X	X		X	X										1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|insvElba3__elba3Elba3|insvElba2__elba2Elba2
+	X		X	X		X	X		X			X			9	wtElba3__elba3Elba3|wtElba1__elba1Elba1|insvElba3__elba3Elba3|insvElba1__elba1Elba1|elba3Insv__insvInsv|elba2Insv__insvInsv|elba1Insv__insvInsv
+							X			X		X	X		1	elba3Insv__insvInsv|elba2Elba3__elba3Elba3|elba1Insv__insvInsv|elba1Elba3__elba3Elba3

@@ -1,0 +1,178 @@
+wtInsv__insvInsv	wtElba3__elba3Elba3	wtElba2__elba2Elba2	wtElba1__elba1Elba1	Insv_ChIPnexus_narrowPeak_q10.bed	Elba3_ChIPnexus_narrowPeak_q10.bed	Elba2_ChIPnexus_narrowPeak_q5.bed	Elba1_ChIPnexus_narrowPeak_q10.bed	Total	Name
+X				X	X			47	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+X				X	X		X	7	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X				X	X	X		4	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X				X	X	X	X	6	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X	X	X	X	X	X	1	wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X	X					54	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+	X	X	X				X	8	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X	X			X		2	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X	X	X			X	X	1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X	X		X			43	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X	X	X		X		X	63	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X	X		X	X		15	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X	X	X		X	X	X	153	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+			X	X				5	wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X					30	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+X	X	X	X				X	2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X			X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed
+X		X						7	wtInsv__insvInsv|wtElba2__elba2Elba2
+			X	X	X			2	wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+			X	X	X		X	1	wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+			X	X	X	X	X	3	wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X					363	wtElba3__elba3Elba3|wtElba1__elba1Elba1
+	X		X				X	20	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X			X		17	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X		X			X	X	4	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X		X			22	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X		X		X	29	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X		X	X		6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X	X	X		X	X	X	68	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X		X			146	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X		X		X		X	104	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X		X	X		19	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X		X		X	X	X	102	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X		X					134	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1
+X	X		X				X	5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X		X			X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X		X			X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X								1283	wtInsv__insvInsv
+X						X		2	wtInsv__insvInsv|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X		X		X			59	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X		X		X		X	22	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X		X		X	X		7	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X		X		X	X	X	21	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X	X					5	wtElba2__elba2Elba2|wtElba1__elba1Elba1
+		X	X			X		1	wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed
+X					X			6	wtInsv__insvInsv|Elba3_ChIPnexus_narrowPeak_q10.bed
+X					X	X		1	wtInsv__insvInsv|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X					X	X	X	1	wtInsv__insvInsv|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X		X				1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed
+	X	X		X		X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+		X	X		X			2	wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+		X	X		X		X	3	wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X	X		X	X	X	2	wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X		X	X			1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X	X		X	X		X	1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X		X	X	X	X	3	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X		X				7	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed
+			X					87	wtElba1__elba1Elba1
+			X				X	5	wtElba1__elba1Elba1|Elba1_ChIPnexus_narrowPeak_q10.bed
+			X			X		1	wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed
+			X			X	X	1	wtElba1__elba1Elba1|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X			X				201	wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed
+	X			X			X	1	wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X		X	X	X				2	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+X	X	X		X	X			4	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X	X		X	X		X	2	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X		X	X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+			X		X			20	wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+			X		X		X	22	wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+			X		X	X		7	wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+			X		X	X	X	15	wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X			X	X			45	wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X			X	X		X	10	wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X			X	X	X		5	wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X			X	X	X	X	2	wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X		X	X	X	X		X	1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X			X				310	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed
+X	X			X			X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X			X		X		4	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X			X		X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X			X	X				7	wtInsv__insvInsv|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+X	X			X	X			110	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X			X	X		X	6	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X			X	X	X		8	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X			X	X	X	X	6	wtInsv__insvInsv|wtElba3__elba3Elba3|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X		X				1	wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed
+		X		X		X	X	1	wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X			X	X	X			3	wtInsv__insvInsv|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+X			X	X	X		X	5	wtInsv__insvInsv|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X			X	X	X	X		1	wtInsv__insvInsv|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X			X	X	X	X	X	1	wtInsv__insvInsv|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X		X	X			1	wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+		X		X	X	X	X	5	wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X						32	wtElba3__elba3Elba3|wtElba2__elba2Elba2
+	X	X				X		1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X	X			X			5	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X	X			X		X	1	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X			X	X	X	6	wtElba3__elba3Elba3|wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+				X				785	Insv_ChIPnexus_narrowPeak_q10.bed
+				X			X	3	Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+				X		X		8	Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+				X		X	X	3	Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X						15	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2
+				X	X			57	Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+				X	X		X	20	Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+				X	X	X		4	Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+				X	X	X	X	21	Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X							2042	wtElba3__elba3Elba3
+	X						X	14	wtElba3__elba3Elba3|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X					X		8	wtElba3__elba3Elba3|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X					X	X	1	wtElba3__elba3Elba3|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X		X	X					2	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1
+X	X	X			X			1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X	X			X	X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X				X			149	wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X				X		X	39	wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X				X	X		9	wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X				X	X	X	17	wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X		X	X		X			1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+X		X	X		X	X	X	1	wtInsv__insvInsv|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X							481	wtInsv__insvInsv|wtElba3__elba3Elba3
+X	X						X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X					X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|Elba2_ChIPnexus_narrowPeak_q5.bed
+X			X					11	wtInsv__insvInsv|wtElba1__elba1Elba1
+X			X				X	1	wtInsv__insvInsv|wtElba1__elba1Elba1|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X				X			36	wtInsv__insvInsv|wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X				X		X	2	wtInsv__insvInsv|wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X				X	X		2	wtInsv__insvInsv|wtElba3__elba3Elba3|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+		X						48	wtElba2__elba2Elba2
+		X				X		3	wtElba2__elba2Elba2|Elba2_ChIPnexus_narrowPeak_q5.bed
+		X				X	X	1	wtElba2__elba2Elba2|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X			X		X			5	wtInsv__insvInsv|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed
+X			X		X		X	4	wtInsv__insvInsv|wtElba1__elba1Elba1|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X			X			1	wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed
+		X			X		X	3	wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+		X			X	X	X	4	wtElba2__elba2Elba2|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X	X	X				3	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+	X	X	X	X	X			8	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X	X	X	X	X		X	10	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X	X	X	X	X	X		4	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X	X	X	X	X	X	X	41	wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+							X	81	Elba1_ChIPnexus_narrowPeak_q10.bed
+						X		97	Elba2_ChIPnexus_narrowPeak_q5.bed
+						X	X	9	Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X	X				28	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X	X			X	3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X	X		X		1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X	X	X	X		X	X	1	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X		X		X				2	wtInsv__insvInsv|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed
+X		X		X		X		1	wtInsv__insvInsv|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+					X			232	Elba3_ChIPnexus_narrowPeak_q10.bed
+					X		X	75	Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+					X	X		30	Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+					X	X	X	61	Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X	X				27	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+	X		X	X			X	1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X	X		X		1	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X	X	X	X	X			73	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X	X	X		X	109	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X	X	X	X	X	X		21	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X	X	X	X	X	X	X	485	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba2__elba2Elba2|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X		X		X	X			1	wtInsv__insvInsv|wtElba2__elba2Elba2|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X		X	X	X			30	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+	X		X	X	X		X	17	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+	X		X	X	X	X		3	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+	X		X	X	X	X	X	26	wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X		X	X				105	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed
+X	X		X	X			X	6	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X		X	X		X		5	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X		X	X		X	X	3	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X				X				851	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed
+X				X			X	2	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X				X		X		12	wtInsv__insvInsv|Insv_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X		X	X	X			177	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed
+X	X		X	X	X		X	65	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba1_ChIPnexus_narrowPeak_q10.bed
+X	X		X	X	X	X		34	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed
+X	X		X	X	X	X	X	108	wtInsv__insvInsv|wtElba3__elba3Elba3|wtElba1__elba1Elba1|Insv_ChIPnexus_narrowPeak_q10.bed|Elba3_ChIPnexus_narrowPeak_q10.bed|Elba2_ChIPnexus_narrowPeak_q5.bed|Elba1_ChIPnexus_narrowPeak_q10.bed

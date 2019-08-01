@@ -1,0 +1,54 @@
+
+
+FC_cutoff> 4  distance< 10000 
+tandem(1345) :  elba1_pro  -- yw promoter :  2.009078e-17 
+tandem(1345) :  elba1_pro   -- yw body :  0.04355238 
+tandem(1345) :  elba2_pro  -- yw promoter :  8.527534e-25 
+tandem(1345) :  elba2_pro   -- yw body :  0.0007231533 
+tandem(1345) :  elba3_pro  -- yw promoter :  4.857759e-20 
+tandem(1345) :  elba3_pro   -- yw body :  0.0004685336 
+tandem(1345) :  insv_pro  -- yw promoter :  0.2338215 
+tandem(1345) :  insv_pro   -- yw body :  0.1685554 
+convergent(943) :  elba1_pro  -- yw promoter :  6.094369e-15 
+convergent(943) :  elba1_pro   -- yw body :  0.0002494203 
+convergent(943) :  elba2_pro  -- yw promoter :  2.371069e-20 
+convergent(943) :  elba2_pro   -- yw body :  1.595471e-05 
+convergent(943) :  elba3_pro  -- yw promoter :  1.202325e-14 
+convergent(943) :  elba3_pro   -- yw body :  1.977632e-05 
+convergent(943) :  insv_pro  -- yw promoter :  0.3345962 
+convergent(943) :  insv_pro   -- yw body :  0.0149108 
+divergent(694) :  elba1_pro  -- yw promoter :  4.832559e-09 
+divergent(694) :  elba1_pro   -- yw body :  0.01158906 
+divergent(694) :  elba2_pro  -- yw promoter :  2.284898e-10 
+divergent(694) :  elba2_pro   -- yw body :  0.001766585 
+divergent(694) :  elba3_pro  -- yw promoter :  1.880786e-10 
+divergent(694) :  elba3_pro   -- yw body :  0.0009560399 
+divergent(694) :  insv_pro  -- yw promoter :  0.6869489 
+divergent(694) :  insv_pro   -- yw body :  1.086095 
+
+
+FC_cutoff> 1  distance< 10000 
+divergent(1102) :  elba1_pro  -- yw promoter :  0.009563626 
+divergent(1102) :  elba1_pro   -- yw body :  0.05883552 
+divergent(1102) :  elba2_pro  -- yw promoter :  0.004703858 
+divergent(1102) :  elba2_pro   -- yw body :  0.005849753 
+divergent(1102) :  elba3_pro  -- yw promoter :  0.0009582937 
+divergent(1102) :  elba3_pro   -- yw body :  0.004185308 
+divergent(1102) :  insv_pro  -- yw promoter :  5.862127 
+divergent(1102) :  insv_pro   -- yw body :  2.015891 
+tandem(2458) :  elba1_pro  -- yw promoter :  0.0004356972 
+tandem(2458) :  elba1_pro   -- yw body :  0.7588311 
+tandem(2458) :  elba2_pro  -- yw promoter :  6.137459e-06 
+tandem(2458) :  elba2_pro   -- yw body :  0.02211413 
+tandem(2458) :  elba3_pro  -- yw promoter :  4.473514e-06 
+tandem(2458) :  elba3_pro   -- yw body :  0.001295728 
+tandem(2458) :  insv_pro  -- yw promoter :  5.254425 
+tandem(2458) :  insv_pro   -- yw body :  0.8725742 
+convergent(1603) :  elba1_pro  -- yw promoter :  0.0001172504 
+convergent(1603) :  elba1_pro   -- yw body :  0.005197194 
+convergent(1603) :  elba2_pro  -- yw promoter :  5.700459e-07 
+convergent(1603) :  elba2_pro   -- yw body :  0.0003234491 
+convergent(1603) :  elba3_pro  -- yw promoter :  4.747615e-05 
+convergent(1603) :  elba3_pro   -- yw body :  0.0003317239 
+convergent(1603) :  insv_pro  -- yw promoter :  6.173022 
+convergent(1603) :  insv_pro   -- yw body :  0.208791 

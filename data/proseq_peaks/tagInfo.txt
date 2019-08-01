@@ -1,0 +1,24 @@
+name	Unique Positions	Total Tags
+genome	7786684	14658335.0
+fragmentLengthEstimate=75		
+peakSizeEstimate=75		
+tagsPerBP=0.104951		
+averageTagsPerPosition=1.881		
+averageTagLength=28.130		
+gsizeEstimate=139668620		
+averageFragmentGCcontent=-1.000		
+chr2L	1420672	2711711.0
+chr2R	1629555	3205949.0
+chr3L	1484708	2783504.0
+chr3R	1922521	3603914.0
+chr4	96675	146150.0
+chrU	32056	74435.0
+chrX	1119018	1970085.0
+chrM	4936	50903.0
+chr2LHet	4003	5873.0
+chr2RHet	26525	38927.0
+chr3LHet	25335	36354.0
+chr3RHet	13467	20083.0
+chrXHet	6689	9732.0
+chrYHet	524	715.0
+cmd=makeTagDirectory combined_pro elba1_pro.swapstrand.bam elba2_pro.swapstrand.bam elba3_pro.swapstrand.bam insv_pro.swapstrand.bam yw_pro.swapstrand.bam		
