@@ -7,6 +7,7 @@ library(tidyverse)
 library(openxlsx)
 library(venneuler)
 library(getopt)
+library(UpSetR)
 library(magrittr)
 
 current_dir = "/home/jwen/projects/qi/elba/ELBA/"
@@ -147,6 +148,11 @@ pdf(file=pief,width=6,height=6)
 # overlap venn
 psel = dm_peak %>% filter(grepl("wtElba1__elba1Elba1|elba2Elba1__elba1Elba1|elba2Elba3__elba3Elba3", ss))
 plot_venneuler(dplot=psel, mytitle= paste("Elba1", sep=""), selcolors = c("black","yellow", "red"))
+
+
+listInput = flist[names(flist)[grepl("wtElba1__elba1Elba1|elba2Elba1__elba1Elba1|elba2Elba3__elba3Elba3", names(flist))]]
+upset(fromList(listInput), sets = names(listInput),nintersects=NA, order.by = c("degree","freq"), decreasing=c(FALSE, TRUE), keep.order = TRUE, main.bar.color="darkred") #main.bar.color=mycolors 
+
 
 #motif
 print_pie_motifs(dd=elba1_wt %>% mutate(motifs=motifsCombine), myset="elba1_wt")

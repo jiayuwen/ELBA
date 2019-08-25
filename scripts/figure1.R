@@ -138,7 +138,4 @@ print(qqq)
 dev.off()
 
 
-########################################################################
-##### figure 1.E anchor at TSS, read coverage for genes with 
-##### peaks containing Elba/Insv motif  
-########################################################################
+

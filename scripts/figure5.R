@@ -22,9 +22,6 @@ res_dir  = paste(current_dir, "res/",sep="")
 ##########################################################################
 
 
-##### figure 5.A memechip for de novo motif search ######################
-
-
 ##### figure 5.B Elba/Insv overlap with other insulators #################
 
 setwd(data_dir)

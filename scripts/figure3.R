@@ -134,12 +134,6 @@ table(Dcounts$motifcombine)
 save(Dcounts, file=paste(data_dir, "ChIPnexus_orientation_index.RData",sep=""))
 
 
-########################################################################
-##### figure 3.A motif coverage chipseq vs chip-nexus ##################
-########################################################################
-
-
-
 
 ########################################################################
 ##### figure 3.D strand orientation index ##############################
